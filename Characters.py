@@ -87,6 +87,7 @@ class VampirePerson(Characters):
         self.hp = int(int(self.hp) + 450)
 
 
+# Characters
 regular_human = RegularHumanPerson(
     name="john",
     lastname="smith",
