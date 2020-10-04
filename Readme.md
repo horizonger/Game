@@ -1,4 +1,4 @@
-<style> .markdown-body table td { font-size: 20px !important; } </style>
+
 The reason for the development of this game is to learn the basics of Object-Oriented Programming.
 
 
