@@ -10,6 +10,7 @@ class Characters:
                  race="human or unknown",
                  weakness="none"
                  ):
+        # instance variable unique to each instance
         self.name = name
         self.lastname = lastname
         self.age = age
