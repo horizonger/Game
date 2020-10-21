@@ -30,8 +30,7 @@ class Characters:
                f"language:{self.language}\n" \
                f"that's all buddy"
     
-    def attributes(self):
-        return f"{self.__name}"
+    
 
 
 class WarriorPerson(Characters):
