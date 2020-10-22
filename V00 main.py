@@ -1,7 +1,7 @@
 from GameIGuess import Character
 from GameIGuess import episode1
 
-# from GameIGuess import EpisodeOneObject
+# from GameIGuess import EpisodeOneObject.
 
 
 def episode_one(episode):
