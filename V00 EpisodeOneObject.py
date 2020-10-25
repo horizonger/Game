@@ -90,5 +90,5 @@ class Flowers_c(Forest):
 
 trees = FruitTree()
 deadtrees = Deadtrees_c()
-DeadliestPlants = DeadliestPlants_c()
+deadliestPlants = DeadliestPlants_c()
 flowers = Flowers_c()
