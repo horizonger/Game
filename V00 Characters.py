@@ -33,7 +33,7 @@ class Characters:
     
     
 
-
+#These classes are inheritors of the main class
 class WarriorPerson(Characters):
 
     def __init__(self,
