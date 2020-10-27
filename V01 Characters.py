@@ -39,7 +39,7 @@ class Characters:
     def attributetwo(self):
         return F"{self.__hp}"
 
-
+#These classes are inheritors of the main class
 class WarriorPerson(Characters):
 
     def __init__(self,
