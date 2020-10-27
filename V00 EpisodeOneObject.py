@@ -25,7 +25,7 @@ class Forest:
                f"weakness:{self.__weakness}\n" \  
                f"that's all buddy"
 
-
+#These classes are inheritors of the main class
 class FruitTree(Forest):
     def __init__(self,
                  name="unknown",
