@@ -1,3 +1,5 @@
+#Main class
+
 class Characters:
 
     def __init__(self,
