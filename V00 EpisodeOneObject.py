@@ -1,3 +1,5 @@
+#main class
+
 class Forest:
     def __init__(self,
                  name,
