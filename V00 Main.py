@@ -4,7 +4,7 @@ from GameIGuess import Episode1
 
 
 
-
+#episode function
 def episode_one(episode):
     return episode1.welcome(episode)
 
