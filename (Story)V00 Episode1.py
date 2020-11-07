@@ -12,5 +12,4 @@ def welcome(start):
     
     
     """)
-def firstpart(partone):
     
