@@ -8,6 +8,9 @@ from GameIGuess import Episode1
 def episode_one(episode):
     return episode1.welcome(episode)
 
+def first(step_one):
+    return episode1.first_choose(step_one)
+
 
 print("""
 
