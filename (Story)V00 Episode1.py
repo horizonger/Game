@@ -33,6 +33,6 @@ def eat_animal(animal):
     You need a fire to cook and warm up.
     
     
-    "")
+    """)
     
     
