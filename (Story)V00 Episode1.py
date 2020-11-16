@@ -23,4 +23,16 @@ def first_choose(first_step):
     """)
     
     
+
+    
+def eat_animal(animal):
+    print("""
+    You hunted a deer.
+    I have some bad news for you . 
+    The forest witch wants to kill you because you killed one of her beloved animals.
+    You need a fire to cook and warm up.
+    
+    
+    "")
+    
     
