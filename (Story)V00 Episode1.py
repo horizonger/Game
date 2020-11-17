@@ -36,3 +36,12 @@ def eat_animal(animal):
     """)
     
     
+    
+def eat_fruit(fruit):
+    print("""
+    
+    
+    
+    """)
+    
+    
