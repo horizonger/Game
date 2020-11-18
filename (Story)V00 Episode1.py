@@ -43,5 +43,9 @@ def eat_fruit(fruit):
     
     
     """)
+   
+def end(endfirstpart):
+    print("""
     
     
+    """)
