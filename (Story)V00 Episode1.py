@@ -8,7 +8,7 @@ def welcome(start):
                 you can "look around", or 
                 you can "walk into the jungle, or 
                 you can sit here and just cry, or
-                just write random and leave the choice to us
+                just write random and leave the choice to us.
     
     
     """)
