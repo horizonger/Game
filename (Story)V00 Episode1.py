@@ -39,6 +39,9 @@ def eat_animal(animal):
     
 def eat_fruit(fruit):
     print("""
+    You choose to  eat fruit but Be very carefull because
+    there are so many fruit that poisonous fruits
+
     
     
     
