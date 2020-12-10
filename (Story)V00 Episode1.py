@@ -18,7 +18,7 @@ def first_choose(first_step):
     Now, you are literally in the forest and the best thing to do (just for now ) is eat something.
     What do you want to eat right now?
     Actually, the best thing you can do is hunt or eat fruit.
-    which do you want to do?
+    Which do you want to do?
     
     """)
     
