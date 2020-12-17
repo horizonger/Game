@@ -7,7 +7,7 @@ def welcome_again_again(start):
     
 def third_choose(first_step):
     print("""
-    Now, 
+    
     
     """)
     
