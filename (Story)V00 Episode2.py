@@ -6,7 +6,7 @@ def welcome_again(start):
     be more careful than before, 
     because now the main problem is humans.
     What do you think now, 
-    are you ready for this part of the game.
+    are you ready for this part of the game
     """)
     
 def second_choose(first_step):
