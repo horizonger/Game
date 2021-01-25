@@ -11,7 +11,7 @@ def welcome_again(start):
     
 def second_choose(first_step):
     print("""
-    Now, 
+    
     
     """)
     
