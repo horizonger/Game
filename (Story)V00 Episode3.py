@@ -35,3 +35,10 @@ def end(endfirstpart):
     
     
     """)
+
+    
+    def end(nearlyfinish):
+    print("""
+    
+    
+    """)
