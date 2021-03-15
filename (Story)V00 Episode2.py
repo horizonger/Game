@@ -10,7 +10,7 @@ def welcome_again(start):
     """)
     
 def second_choose(first_step):
-    print("""
+    print("""can you see that
     
     
     """)
