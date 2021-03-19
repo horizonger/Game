@@ -1,7 +1,6 @@
 def welcome_again_again_again(start):
     print(f"""
-    welcome the game again {start}, be prepared for your destiny
-    
+    welcome the game again {start},
     
     """)
     
