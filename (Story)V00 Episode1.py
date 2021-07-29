@@ -4,7 +4,7 @@ def welcome(start):
     We are waiting  you since you are looking this game.
     You're in the forest and you see so many different things(animals,trees, etc) 
     That you've never seen before in your life.
-    what do you want to do.
+    What do you want to do.
                 you can "look around", or 
                 you can "walk into the jungle, or 
                 you can sit here and just cry, or
