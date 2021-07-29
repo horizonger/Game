@@ -1,7 +1,7 @@
 def welcome(start):
     print(f"""
     Welcome the game {start}, 
-    we are waiting  you since you are looking this game.
+    We are waiting  you since you are looking this game.
     You're in the forest and you see so many different things(animals,trees, etc) 
     That you've never seen before in your life.
     what do you want to do.
