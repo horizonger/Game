@@ -48,6 +48,7 @@ def eat_fruit(fruit):
    
 def end(endfirstpart):
     print("""
-    
+    What a suprise
+    You pass this chapter 
     
     """)
